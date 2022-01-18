@@ -1,0 +1,24 @@
+Inserting vertices ..
+Inserted vertices: GJ, DJ, DG, BS, PH, SW, WJ, GR, SL, CC, SC, 
+Inserting edges ..
+Inserted edges: 
+Edge(GJ, DJ,  138), Edge(GJ, DG,  170), Edge(GJ, BS,  202), Edge(DJ, GJ,  138), Edge(DJ, DG,  120), 
+Edge(DJ, SW,  109), Edge(DG, GJ,  170), Edge(DG, PH,   66), Edge(DG, DJ,  120), Edge(DG, BS,   87), 
+Edge(DG, WJ,  174), Edge(BS, GJ,  202), Edge(BS, PH,   93), Edge(BS, DG,   87), Edge(PH, DG,   66), 
+Edge(PH, BS,   93), Edge(PH, GR,  200), Edge(SW, DJ,  109), Edge(SW, WJ,   84), Edge(SW, SL,   34), 
+Edge(WJ, DG,  174), Edge(WJ, SW,   84), Edge(WJ, GR,   91), Edge(WJ, CC,   47), Edge(WJ, CC,   47), 
+Edge(GR, PH,  200), Edge(GR, WJ,   91), Edge(GR, SC,   42), Edge(SL, SW,   34), Edge(SL, CC,   71), 
+Edge(CC, SL,   71), Edge(CC, SC,   79), Edge(SC, GR,   42), Edge(SC, CC,   79), 
+Print out Graph based on Adjacency List ..
+GRAPH_SIMPLE_USA_7_NODES with 11 vertices has following connectivity :
+ vertex ( GJ) : Edge(GJ, DJ,  138) Edge(GJ, DG,  170) Edge(GJ, BS,  202) 
+ vertex ( DJ) : Edge(DJ, GJ,  138) Edge(DJ, DG,  120) Edge(DJ, SW,  109) 
+ vertex ( DG) : Edge(DG, GJ,  170) Edge(DG, PH,   66) Edge(DG, DJ,  120) Edge(DG, BS,   87) Edge(DG, WJ,  174) 
+ vertex ( BS) : Edge(BS, GJ,  202) Edge(BS, PH,   93) Edge(BS, DG,   87) 
+ vertex ( PH) : Edge(PH, DG,   66) Edge(PH, BS,   93) Edge(PH, GR,  200) 
+ vertex ( SW) : Edge(SW, DJ,  109) Edge(SW, WJ,   84) Edge(SW, SL,   34) 
+ vertex ( WJ) : Edge(WJ, DG,  174) Edge(WJ, SW,   84) Edge(WJ, GR,   91) Edge(WJ, CC,   47) Edge(WJ, CC,   47) 
+ vertex ( GR) : Edge(GR, PH,  200) Edge(GR, WJ,   91) Edge(GR, SC,   42) 
+ vertex ( SL) : Edge(SL, SW,   34) Edge(SL, CC,   71) 
+ vertex ( CC) : Edge(CC, SL,   71) Edge(CC, SC,   79) 
+ vertex ( SC) : Edge(SC, GR,   42) Edge(SC, CC,   79) 

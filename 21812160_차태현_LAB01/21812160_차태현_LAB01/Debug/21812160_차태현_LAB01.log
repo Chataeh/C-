@@ -1,0 +1,6 @@
+﻿  students.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB01\21812160_차태현_LAB01\students.cpp(12,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB01\21812160_차태현_LAB01\students.cpp(9,9): warning C4101: 'grade' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB01\21812160_차태현_LAB01\students.cpp(85,14): warning C4101: 'min_ID' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB01\21812160_차태현_LAB01\students.cpp(111,14): warning C4101: 'max_gpa' :참조되지 않은 지역 변수입니다.
+  21812160_차태현_LAB01.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB01\Debug\21812160_차태현_LAB01.exe

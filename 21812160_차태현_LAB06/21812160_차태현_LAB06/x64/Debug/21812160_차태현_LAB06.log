@@ -1,0 +1,45 @@
+﻿  AngledArc.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\AngledArc.cpp(68,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\AngledArc.cpp(69,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\AngledArc.cpp(72,51): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\AngledArc.cpp(72,38): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Circle.cpp
+  Color.cpp
+  ConsolePixelFrame.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\ConsolePixelFrame.cpp(32,4): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Cylinder.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Cylinder.cpp(55,9): warning C4101: 'start_ang_rad' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Cylinder.cpp(54,6): warning C4101: 'start_px' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Cylinder.cpp(54,16): warning C4101: 'start_py' :참조되지 않은 지역 변수입니다.
+  Hexahedron.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Hexahedron.cpp(41,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Hexahedron.cpp(55,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Hexahedron.cpp(56,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Hexahedron.cpp(57,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Hexahedron.cpp(58,18): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  PolyGon.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\PolyGon.cpp(45,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\PolyGon.cpp(46,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Prism.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(51,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(53,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(55,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(66,49): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(68,49): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Prism.cpp(70,49): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Rectang.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Rectang.cpp(52,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Rectang.cpp(54,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Rectang.cpp(56,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shape.cpp
+  star.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\star.cpp(31,37): warning C4244: '인수': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\star.cpp(48,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\star.cpp(49,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Triangle.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Triangle.cpp(50,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Triangle.cpp(52,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\21812160_차태현_LAB06\Triangle.cpp(54,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  21812160_차태현_LAB06.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB06\x64\Debug\21812160_차태현_LAB06.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(26,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(32,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(89,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(107,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(39,7): warning C4101: 'keyWord' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(35,21): warning C4101: 'pTN' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\Trie.h(284,6): warning C4101: 'trie_val' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\Trie.h(280): message : 클래스 템플릿 멤버 함수 'void Trie<MyVoca *>::deleteKeyStr(std::string)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(109): message : 컴파일되는 함수 템플릿 인스턴스화 'void Trie<MyVoca *>::deleteKeyStr(std::string)'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\main.cpp(34): message : 컴파일되는 클래스 템플릿 인스턴스화 'Trie<MyVoca *>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\21812160_차태현_Homework12\Trie.h(240): warning C4715: 'Trie<MyVoca *>::_find': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  21812160_차태현_Homework12.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_Homework12\Debug\21812160_차태현_Homework12.exe

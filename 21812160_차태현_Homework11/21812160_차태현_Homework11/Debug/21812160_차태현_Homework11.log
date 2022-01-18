@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11\21812160_차태현_Homework11\Generic_Skip_List.h(272,13): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11\21812160_차태현_Homework11\main.cpp(20,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11\21812160_차태현_Homework11\main.cpp(36,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  21812160_차태현_Homework11.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11\Debug\21812160_차태현_Homework11.exe

@@ -1,0 +1,18 @@
+﻿  BFS_Dijkstra.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(29,2): warning C4240: 비표준 확장이 사용됨: 'Graph::Vertex'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(20): message : 'Graph::Vertex' 선언을 참조하십시오.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(53,2): warning C4240: 비표준 확장이 사용됨: 'Graph::Edge'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(21): message : 'Graph::Edge' 선언을 참조하십시오.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\BFS_Dijkstra.cpp(24,7): warning C4101: 'pLeaseCostMtrx' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\BFS_Dijkstra.cpp(57,6): warning C4101: 'vID' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\BFS_Dijkstra.cpp(109,29): warning C4101: 'curVID' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\BFS_Dijkstra.cpp(107,17): warning C4101: 'pPrevVrtx' :참조되지 않은 지역 변수입니다.
+  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(29,2): warning C4240: 비표준 확장이 사용됨: 'Graph::Vertex'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(20): message : 'Graph::Vertex' 선언을 참조하십시오.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(53,2): warning C4240: 비표준 확장이 사용됨: 'Graph::Edge'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\Graph.h(21): message : 'Graph::Edge' 선언을 참조하십시오.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\main.cpp(16,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\21812160_차태현_LAB13\main.cpp(23,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  코드를 생성하고 있습니다...
+  21812160_차태현_LAB13.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB13\Debug\21812160_차태현_LAB13.exe

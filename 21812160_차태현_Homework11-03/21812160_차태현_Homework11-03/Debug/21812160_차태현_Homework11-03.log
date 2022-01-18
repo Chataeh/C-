@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\21812160_차태현_Homework11-03\Generic_Skip_List.h(273,13): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\21812160_차태현_Homework11-03\Generic_Skip_List.h(101,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\21812160_차태현_Homework11-03\Generic_Skip_List.h(81): message : 클래스 템플릿 멤버 함수 'SkipList<std::string,MyVoca *>::SkipList(void)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\21812160_차태현_Homework11-03\main.cpp(21): message : 컴파일되는 함수 템플릿 인스턴스화 'SkipList<std::string,MyVoca *>::SkipList(void)'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\21812160_차태현_Homework11-03\main.cpp(21): message : 컴파일되는 클래스 템플릿 인스턴스화 'SkipList<std::string,MyVoca *>'에 대한 참조를 확인하세요.
+  21812160_차태현_Homework11-03.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_Homework11-03\Debug\21812160_차태현_Homework11-03.exe

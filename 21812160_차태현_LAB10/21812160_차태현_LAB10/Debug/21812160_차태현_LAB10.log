@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\main.cpp(23,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\main.cpp(49,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(69,23): warning C4101: 'pLc' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(68): message : 클래스 템플릿 멤버 함수 'T_BSTN<K,V> *T_BST<K,V>::_minBSTN(T_BSTN<K,V> *)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              K=std::string,
+              V=Book *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(343): message : 컴파일되는 함수 템플릿 인스턴스화 'T_BSTN<K,V> *T_BST<K,V>::_minBSTN(T_BSTN<K,V> *)'에 대한 참조를 확인하세요.
+          with
+          [
+              K=std::string,
+              V=Book *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(374): message : 클래스 템플릿 멤버 함수 'void T_BST<std::string,Book *>::clear(void)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\main.cpp(135): message : 컴파일되는 함수 템플릿 인스턴스화 'void T_BST<std::string,Book *>::clear(void)'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\main.cpp(61): message : 컴파일되는 클래스 템플릿 인스턴스화 'T_BST<std::string,Book *>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(267,17): warning C4101: 'pEntry' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(265): message : 클래스 템플릿 멤버 함수 'void T_BST<std::string,Book *>::_fprint_with_Depth(T_BSTN<K,V> *,std::ostream &,int)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              K=std::string,
+              V=Book *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\21812160_차태현_LAB10\T_BST.h(289): message : 컴파일되는 함수 템플릿 인스턴스화 'void T_BST<std::string,Book *>::_fprint_with_Depth(T_BSTN<K,V> *,std::ostream &,int)'에 대한 참조를 확인하세요.
+          with
+          [
+              K=std::string,
+              V=Book *
+          ]
+  21812160_차태현_LAB10.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB10\Debug\21812160_차태현_LAB10.exe

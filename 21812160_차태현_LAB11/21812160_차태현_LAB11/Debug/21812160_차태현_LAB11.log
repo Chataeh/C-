@@ -1,0 +1,169 @@
+﻿  HashMap.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(272,13): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(272,13): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\main.cpp(21,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\main.cpp(37,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(84,1): error C2440: '<function-style-cast>': 'int'에서 'Key'(으)로 변환할 수 없습니다.
+          with
+          [
+              Key=std::string
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(84,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(80): message : 클래스 템플릿 멤버 함수 'SkipList<K,V>::SkipList(void)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\HashMap.cpp(11): message : 컴파일되는 함수 템플릿 인스턴스화 'SkipList<K,V>::SkipList(void)'에 대한 참조를 확인하세요.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\HashMap.h(20): message : 컴파일되는 클래스 템플릿 인스턴스화 'SkipList<K,V>'에 대한 참조를 확인하세요.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\HashDictionary.h(9): message : 컴파일되는 클래스 템플릿 인스턴스화 'HashMap<K,V>'에 대한 참조를 확인하세요.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\main.cpp(29): message : 컴파일되는 클래스 템플릿 인스턴스화 'HashDict<std::string,MyVoca *>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(84,1): error C2664: 'SkipList<K,V>::QuadNode::QuadNode(Key,Element)': 인수 1을(를) 'Element'에서 'Key'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *,
+              Key=std::string,
+              Element=MyVoca *
+          ]
+          and
+          [
+              Element=MyVoca *
+          ]
+          and
+          [
+              Key=std::string
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(84,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(36,3): message : 'SkipList<K,V>::QuadNode::QuadNode' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(87,1): error C2440: '<function-style-cast>': 'int'에서 'Key'(으)로 변환할 수 없습니다.
+          with
+          [
+              Key=std::string
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(87,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(87,1): error C2664: 'SkipList<K,V>::QuadNode::QuadNode(Key,Element)': 인수 1을(를) 'Element'에서 'Key'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *,
+              Key=std::string,
+              Element=MyVoca *
+          ]
+          and
+          [
+              Element=MyVoca *
+          ]
+          and
+          [
+              Key=std::string
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(87,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(36,3): message : 'SkipList<K,V>::QuadNode::QuadNode' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(91,1): error C2664: 'void SkipList<K,V>::Position::setBefore(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(91,27): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(66,8): message : 'SkipList<K,V>::Position::setBefore' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(92,1): error C2664: 'void SkipList<K,V>::Position::setAbove(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(92,26): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(64,8): message : 'SkipList<K,V>::Position::setAbove' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(93,1): error C2664: 'void SkipList<K,V>::Position::setBelow(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(93,26): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(63,8): message : 'SkipList<K,V>::Position::setBelow' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(96,1): error C2664: 'void SkipList<K,V>::Position::setAfter(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(96,24): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(65,8): message : 'SkipList<K,V>::Position::setAfter' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(97,1): error C2664: 'void SkipList<K,V>::Position::setBelow(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(97,24): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(63,8): message : 'SkipList<K,V>::Position::setBelow' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(98,1): error C2664: 'void SkipList<K,V>::Position::setAbove(SkipList<K,V>::Position &)': 인수 1을(를) 'SkipList<K,V>::Position'에서 'SkipList<K,V>::Position &'(으)로 변환할 수 없습니다.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(98,24): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(64,8): message : 'SkipList<K,V>::Position::setAbove' 선언을 참조하십시오.
+          with
+          [
+              K=std::string,
+              V=MyVoca *
+          ]
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB11\21812160_차태현_LAB11\Generic_Skip_List.h(100,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...

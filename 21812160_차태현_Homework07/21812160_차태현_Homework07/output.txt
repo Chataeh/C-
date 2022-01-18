@@ -1,0 +1,36 @@
+Elements in studentArray after initialization :
+Studnet [ st_id:21811000, name:   Kim, G-M, date_of_birth: (1990:10: 5), arrival: ( 3: 0:30), gpa: 3.57] 
+Studnet [ st_id:21611075, name:  Yoon, S-M, date_of_birth: (1990: 4: 5), arrival: ( 7:30: 0), gpa: 4.37] 
+Studnet [ st_id:21411015, name: Hwang, S-S, date_of_birth: (1989: 1:10), arrival: ( 2: 0:50), gpa: 2.72] 
+Studnet [ st_id:21611054, name:   Lee, K-M, date_of_birth: (1991: 5:15), arrival: ( 5:30: 0), gpa: 3.35] 
+Studnet [ st_id:21311340, name:  Hong, G-M, date_of_birth: (1990: 2: 5), arrival: ( 1:10: 0), gpa: 3.89] 
+Studnet [ st_id:22116543, name:  Jang, S-M, date_of_birth: (1978: 1: 4), arrival: ( 9:20:10), gpa: 4.42] 
+Studnet [ st_id:22037080, name:  Park, S-T, date_of_birth: (1998:11: 9), arrival: ( 1:20:15), gpa: 4.12] 
+Studnet [ st_id:21559564, name:  Choi, Y-H, date_of_birth: (1999:12: 6), arrival: (10: 0: 0), gpa: 3.85] 
+Studnet [ st_id:21614000, name:  Shin, D-J, date_of_birth: (1993:10:26), arrival: (11:15:10), gpa: 3.21] 
+Studnet [ st_id:21787812, name:   Ahn, S-B, date_of_birth: (1994: 6:21), arrival: ( 2: 0: 5), gpa: 4.45] 
+
+Elements in studentArray after sorting :
+Studnet [ st_id:21311340, name:  Hong, G-M, date_of_birth: (1990: 2: 5), arrival: ( 1:10: 0), gpa: 3.89] 
+Studnet [ st_id:22037080, name:  Park, S-T, date_of_birth: (1998:11: 9), arrival: ( 1:20:15), gpa: 4.12] 
+Studnet [ st_id:21787812, name:   Ahn, S-B, date_of_birth: (1994: 6:21), arrival: ( 2: 0: 5), gpa: 4.45] 
+Studnet [ st_id:21411015, name: Hwang, S-S, date_of_birth: (1989: 1:10), arrival: ( 2: 0:50), gpa: 2.72] 
+Studnet [ st_id:21811000, name:   Kim, G-M, date_of_birth: (1990:10: 5), arrival: ( 3: 0:30), gpa: 3.57] 
+Studnet [ st_id:21611054, name:   Lee, K-M, date_of_birth: (1991: 5:15), arrival: ( 5:30: 0), gpa: 3.35] 
+Studnet [ st_id:21611075, name:  Yoon, S-M, date_of_birth: (1990: 4: 5), arrival: ( 7:30: 0), gpa: 4.37] 
+Studnet [ st_id:22116543, name:  Jang, S-M, date_of_birth: (1978: 1: 4), arrival: ( 9:20:10), gpa: 4.42] 
+Studnet [ st_id:21559564, name:  Choi, Y-H, date_of_birth: (1999:12: 6), arrival: (10: 0: 0), gpa: 3.85] 
+Studnet [ st_id:21614000, name:  Shin, D-J, date_of_birth: (1993:10:26), arrival: (11:15:10), gpa: 3.21] 
+
+Elements in studentArray after sorting :
+Studnet [ st_id:21614000, name:  Shin, D-J, date_of_birth: (1993:10:26), arrival: (11:15:10), gpa: 3.21] 
+Studnet [ st_id:21559564, name:  Choi, Y-H, date_of_birth: (1999:12: 6), arrival: (10: 0: 0), gpa: 3.85] 
+Studnet [ st_id:22116543, name:  Jang, S-M, date_of_birth: (1978: 1: 4), arrival: ( 9:20:10), gpa: 4.42] 
+Studnet [ st_id:21611075, name:  Yoon, S-M, date_of_birth: (1990: 4: 5), arrival: ( 7:30: 0), gpa: 4.37] 
+Studnet [ st_id:21611054, name:   Lee, K-M, date_of_birth: (1991: 5:15), arrival: ( 5:30: 0), gpa: 3.35] 
+Studnet [ st_id:21811000, name:   Kim, G-M, date_of_birth: (1990:10: 5), arrival: ( 3: 0:30), gpa: 3.57] 
+Studnet [ st_id:21411015, name: Hwang, S-S, date_of_birth: (1989: 1:10), arrival: ( 2: 0:50), gpa: 2.72] 
+Studnet [ st_id:21787812, name:   Ahn, S-B, date_of_birth: (1994: 6:21), arrival: ( 2: 0: 5), gpa: 4.45] 
+Studnet [ st_id:22037080, name:  Park, S-T, date_of_birth: (1998:11: 9), arrival: ( 1:20:15), gpa: 4.12] 
+Studnet [ st_id:21311340, name:  Hong, G-M, date_of_birth: (1990: 2: 5), arrival: ( 1:10: 0), gpa: 3.89] 
+

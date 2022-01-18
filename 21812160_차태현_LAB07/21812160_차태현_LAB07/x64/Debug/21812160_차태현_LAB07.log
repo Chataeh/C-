@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\main.cpp(119,11): warning C4101: 'pSt' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\Template class T_Array.h(269,6): warning C4101: 'pi' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\Template class T_Array.h(268): message : 클래스 템플릿 멤버 함수 'void T_Array<Student,double>::quick_sort(std::string,SortingOrder)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\main.cpp(139): message : 컴파일되는 함수 템플릿 인스턴스화 'void T_Array<Student,double>::quick_sort(std::string,SortingOrder)'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\main.cpp(133): message : 컴파일되는 클래스 템플릿 인스턴스화 'T_Array<Student,double>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\21812160_차태현_LAB07\Template class T_Array.h(269,10): warning C4101: 'newpi' :참조되지 않은 지역 변수입니다.
+  21812160_차태현_LAB07.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB07\x64\Debug\21812160_차태현_LAB07.exe

@@ -1,0 +1,6 @@
+﻿  Thread_EventHandler.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB09\21812160_차태현_LAB09\Event.h(16,1): warning C4005: 'NUM_EVENT_GENERATORS': 매크로 재정의
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB09\21812160_차태현_LAB09\SimParams.h(4): message : 'NUM_EVENT_GENERATORS'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB09\21812160_차태현_LAB09\Thread_EventHandler.cpp(21,27): warning C4101: 'pEventProc' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB09\21812160_차태현_LAB09\Thread_EventHandler.cpp(21,17): warning C4101: 'pEvent' :참조되지 않은 지역 변수입니다.
+  21812160_차태현_LAB09.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB09\Debug\21812160_차태현_LAB09.exe

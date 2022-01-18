@@ -1,0 +1,6 @@
+﻿  mtrx.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB03\21812160_ 차태현_LAB03\mtrx.cpp(106,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB03\21812160_ 차태현_LAB03\mtrx.cpp(106,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB03\21812160_ 차태현_LAB03\mtrx.cpp(125,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_LAB03\21812160_ 차태현_LAB03\mtrx.cpp(125,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  21812160_ 차태현_LAB03.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_LAB03\Debug\21812160_ 차태현_LAB03.exe

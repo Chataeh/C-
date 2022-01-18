@@ -1,0 +1,8 @@
+﻿  BigArray.cpp
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework03-1\21812160_차태현_Homework03-1\BigArray.cpp(29,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework03-1\21812160_차태현_Homework03-1\BigArray.cpp(103,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework03-1\21812160_차태현_Homework03-1\BigArray.cpp(184,6): warning C4101: 'pI' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\21812160_차태현_Homework03-1\21812160_차태현_Homework03-1\BigArray.cpp(184,10): warning C4101: 'newPI' :참조되지 않은 지역 변수입니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  21812160_차태현_Homework03-1.vcxproj -> C:\Users\user\Desktop\자료구조\21812160_차태현_Homework03-1\Debug\21812160_차태현_Homework03-1.exe

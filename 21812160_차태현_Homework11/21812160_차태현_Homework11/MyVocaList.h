@@ -1,0 +1,123 @@
+#ifndef MVL_H
+#define MVL_H
+
+#include"MyVoca.h"
+
+int NUM_MY_TOEIC_VOCA = 100;
+MyVoca myToeicVocaList[] = 
+{
+	MyVoca("resume", VERB, { "reopen","renew","continue" }, { "In Korea local area bars resume sales until late time because COVID-19 social distancing is 1.5 step" }),
+	MyVoca("resume", NOUN, { "summary","digest","summation" }, { "Effctive study method is resume major content in your note if so you do that you can get good grade" }),
+	MyVoca("stipulate", VERB, { "prescribe","regulate" }, { "Every year at many communities stipulate new rule for lessen shortage in last year" }),
+	MyVoca("stipulate", ADJ, { "prescribe","regulate" }, { "Dicotyledons are stipulate.There is a lot of dicotyledons. for example of dicotyledons garden balsam,dandelion,sunflower etc ." }),
+	MyVoca("abundant",ADJ,{"plentiful","ample","lavish"},{"The recruiter was surprised by the abundant number of qualified applicants"}),
+	MyVoca("recruit",VERB,{"hire","collect"},{"A lot of company recruit new employee every year over the two times the first half and the latter half."}),
+	MyVoca("recruit",NOUN,{"inductee","squaddie"},{"Most pitiful people of world I think Korea recruits because they don't want to go the military."}),
+	MyVoca("proficient",ADJ,{"skilled","expert","adroit"},{"If you want to be proficient your work, you should make effort and take one¡¯s time in your work."}),
+	MyVoca("entail",VERB,{"involve"," require"},{"Person who is visually impaired entail help so Seeing Eye dog always be next to their one¡¯s side"}),
+	MyVoca("endure",VERB,{"tolerate","bear"},{"If you want to achieve your goal,you should endure and then you can clinch your goal"}),
+
+	MyVoca("succinct", ADJ, { "concise","pithy" }, { "You are not good at cooking? Don¡¯t worry Youtube has a lot of succinct recipe" }),
+	MyVoca("elaborate", ADJ, { "busy","decorated","refined" }, { "This work of art that made by master craftsman living  out of sight is very elaborate" }),
+	MyVoca("elaborate", VERB, { "detailed","careful" }, { "If you want to sell this product you should elaborate about advantae of your product" }),
+	MyVoca("refrain", VERB, { "burden","abstain" }, { "If you are unfavorable position you have to refrain from rash actions at anywhere anytime" }),
+	MyVoca("refrain",NOUN,{"melody","theme"},{"This refrain is incredibly addictive so I can go anywhere I can listen this melody"}),
+	MyVoca("abide",VERB,{"stand","bear"},{"All of the world people shouldabide in their home because COIVD - 19 is highly contagious."}),
+	MyVoca("obligate",VERB,{"force","necessitate","obilge"},{"Now days if you go out the outside I will obligate wearing mask for you health."}),
+	MyVoca("obligate",ADJ,{"inevitable","unavoidable"},{"You will not go together obligate because you are not good at your major ability."}),
+	MyVoca("resolve",VERB,{"decide","determine"},{"If you are team leader of your company, you should resolve of your work that affect to company"}),
+	MyVoca("resolve",NOUN,{"resolution","determination"},{"I want to take picture my body profile, so I get resolve that do diet for 3 months"}),
+
+	MyVoca("substitute", NOUN, { "alternate","replacement" }, { "Lee is include entry list but he is subsitiute so he start the game in bench" }),
+	MyVoca("substitute", VERB, { "relieve","replace" }, { "Lee is substitue start at half time because his team need quick and smart pass." }),
+	MyVoca("adverse", ADJ, { "opposing","contrary" }, { "He is always adverse, so he don¡¯t have friends, anyone want to go next to him." }),
+	MyVoca("mediate", VERB, { "arbitrate","intercede" }, { "There are men that a quarrel when they meet each time so I mediate a quarrel between they" }),
+	MyVoca("frequent",ADJ,{"recurrent","common"},{"There is a man has enteritis when I eat unregularly with him and then he must go restroom"}),
+	MyVoca("frequent",VERB,{"visit","patronize"},{"He frequent to library at his college so as to get scholarship because school expenses so expensive."}),
+	MyVoca("revenue",VERB,{"income","proceeds"},{"If you want to generate revenue by stock, you must wait a long time at least 5 years."}),
+	MyVoca("retail",NOUN,{"sell","vend"},{"We always buy object by retail because we don¡¯t need wholesale and  we need only small quantity."}),
+	MyVoca("retail",VERB,{"decide","determine"},{"If you have part time job, you should retail various complex objects at your workplace"}),
+	MyVoca("procure",VERB,{"secure","obtain"},{"The match include really popular soccer players, so he was procured this a match ticket very difficulty."}),
+
+	MyVoca("diverse", ADJ, { "various","different" }, { "Using social networking services that very convenience and simple can meet people from diverse country." }),
+	MyVoca("rectify", VERB, { "correct","cure" }, { "Many parents rectify their child¡¯s behavior that bad act in the face of people at anywhere." }),
+	MyVoca("mandatory", ADJ, { "obligatory","required" }, { "I£î KOREA over age of 20 men should military service, because that is mandatory at KOREA." }),
+	MyVoca("consistent", ADJ, { "reliable","steady" }, { "Exerciser is reliable,because they go gym everyday in order that their body looks like awesome." }),
+	MyVoca("dominate",VERB,{"control","rule"},{"You have power you should not dominate people, if you dominate you will lost your people."}),
+	MyVoca("invoice",NOUN,{"statement","demand"},{"If you receive an object to parcel service, you should eliminate invoice that have your information."}),
+	MyVoca("invoice",VERB,{"bill","charge"},{"If you send to package, you should invoice about destination that you want to send."}),
+	MyVoca("deduct",VERB,{"remove","withhold","subtract"},{"If you have job that you can make money, you should deduct tax in your money "}),
+	MyVoca("accrue",VERB,{"accumulate", "ensue"},{"If you save your money from your salary, your money accrue so you will be rich in future."}),
+	MyVoca("liquidate",VERB,{"settle","discharge"},{"In 1997,A lot of companies were liquidate because the companies can¡¯t give salary to their workers."}),
+
+	MyVoca("plummet", VERB, { "fall","plunge" }, { "Many companies¡¯s stocks plummet because COVID-19 so small scale investors are purchase a lot of stocks" }),
+	MyVoca("plummet", NOUN, { "weight"," a plumb" }, { "In the past,scale is balances that use plummet but in nowdays scale is an electronic scale more accurate" }),
+	MyVoca("subsidiary", ADJ, { "lesser","minr" }, { "If you arise unknown question in studying, you should request subsidiary information to that question" }),
+	MyVoca("subsidiary", NOUN, { "company", "firm" }, { "Major companies are not working alone, their have a lot of subsidiaries for the major companies." }),
+	MyVoca("audit",NOUN,{"review","check"},{"Audit must do very exhaustive, because audit is related to money .so people are nervous to audit."}),
+	MyVoca("audit",VERB,{"inspect","assess"},{"The end of the year many companies audit because money is very important at companies."}),
+	MyVoca("commit",VERB,{"obligate","pledge","promise"},{"If you commit crime, you will go prison and you will regret all of your life. "}),
+	MyVoca("yield",VERB,{"generate","return"},{"If there are none disease for agricultural products, famers  will yield the highest standard."}),
+	MyVoca("yield",NOUN,{"harves","profit"},{"Crop yield of the year is decided through weather, disease for agricultural products and ground state."}),
+	MyVoca("scrutiny",NOUN,{"close","inspection"},{"If cheating is found in any exam scrutiny of cheating is positively necessary regardless of the reason."}),
+
+	MyVoca("affiliate", VERB, { "associate","link","connect" }, { "Two of clothes companies that very popular affiliate to make very special design clothes that limited edition" }),
+	MyVoca("affiliate", NOUN, { "partner","colleague" }, { "There is a competent employee of affiliate, I  think he will be offered  to head office. " }),
+	MyVoca("consolidate", VERB, { "combine","unite" }, { "If you want to consolidate your authority, you should be humble and consider for your people." }),
+	MyVoca("weave", VERB, { "interlace","interwine" }, { "This place is experience zone that you can do various experience and in particular you can weave clothes " }),
+	MyVoca("weave",NOUN,{"pile","texture"},{"These days I study about fabric weave because I want to teach fabric wave for childern."}),
+	MyVoca("legitimate",ADJ,{"genuine","sincere","real"},{"Don¡¯t start anything illegal that to earn money , if you want to earn money,you should work legitimate"}),
+	MyVoca("legitimate",VERB,{"to make lawful or legal","pronounce as lawful"},{"If you can legitimate about your opinion, aseert your opinion for your audience that spend time for you. "}),
+	MyVoca("commodity",VERB,{"generate","return"},{"If there are none disease for agricultural products, famers  will yield the highest standard."}),
+	MyVoca("apprehensive",NOUN,{"product","service"},{"This commodity is limited edition so I think difficult matter that you buy that commodity."}),
+	MyVoca("scrutiny",ADJ,{"nervous","fearful"},{"Nowdays even though I study everyday, I am apprehensive because the middle exam is coming. "}),
+
+	MyVoca("secure", ADJ, { "safe","confident" }, { "I think my house is most secure place in the world because outside always exist risk." }),
+	MyVoca("secure", VERB, { "obtain","fix" }, { "All of the world parents secure their children, because nowadays children always need their parents. " }),
+	MyVoca("relinquish", VERB, { "abandon","renounce" }, { "I think if you can¡¯t do about something, you should relinquish about that because that make you hard." }),
+	MyVoca("coordinate", VERB, { "match","manage" }, { "I coordinate my posture when i study along time because if don¡¯t do that my body will have cramp." }),
+	MyVoca("coordinate",NOUN,{"point pf reference", "altitude and longitude "},{"When I belong to the military, I am good at fire, my all bullets hit coordinate."}),
+	MyVoca("presume",VERB,{"believe","assume"},{"I think that I will get good grade our college because I think I studying hard nowadays."}),
+	MyVoca("subjective",ADJ,{"personal","individual"},{"I think many people don¡¯t say their subjective mind because say about that is so hard."}),
+	MyVoca("assort",VERB,{"various","varied"},{"If you clean up your room you should assort your thing that you will use later or not."}),
+	MyVoca("incorporate",VERB,{"join","integrate"},{"I think this method must incorporate in your studying method because your studying seems to insufficient"}),
+	MyVoca("exquisite",ADJ,{"beautiful","attractive"},{"I think entertainers that appear on TV are very exquisite and they look like so happy"}),
+
+	MyVoca("regulate", VERB, { "control","order" }, { "If you belong to a community, I think the community can regulate to you by using rule of that community" }),
+	MyVoca("incidental", ADJ, { "related","secondary" }, { "This is incidental, so don¡¯t be embarrassed and follow the directions of the employee that wearing a hat." }),
+	MyVoca("incidental", NOUN, { "sometinmg incidental","minor expenses" }, { "Incidental is natural because I think that everything happens for a proper reason that can understand." }),
+	MyVoca("expanse", VERB, { "expenditure","cost" }, { "If you want to travel anywhere you will pay a lot of expanse for that travel." }),
+	MyVoca("accommodate",VERB,{"oblige","serve","aid "},{"If you come over to my area, I¡¯m willing to accommodate the place that you sleep."}),
+	MyVoca("indulge",VERB,{"spoil,pamper"},{"If you indulge anything illegal,your life will be miserable and you will stay prison"}),
+	MyVoca("improvise",VERB,{"extemporize","create"},{"If you improvise a song, You are very creative and have a tremendous talent in composing."}),
+	MyVoca("instinct",NOUN,{"nature","drive"},{"If you know about your instinct, You will be able to develop that talent and succeed."}),
+	MyVoca("conjunction",NOUN,{"combination","aggregation"},{"If you want to connect two English sentences, you have to use a conjunction."}),
+	MyVoca("disseminate",VERB,{"spread","circulate"},{"The best use of the informative information and knowledge you have gained is to disseminate them."}),
+
+	MyVoca("description", NOUN, { "account","explanation" }, { "One of the effective ways to study is description that explain your knowledge to others." }),
+	MyVoca("fascinate", VERB, { "captivate","charm" }, { "He is so attractive so he can fascinate anyone if he wants to do it." }),
+	MyVoca("broaden", VERB, { "widen","extend" }, { "This construction is to broaden this narrow road and it will take about a year." }),
+	MyVoca("investigate", VERB, { "examine","explore" }, { "This case is so difficult so It thoroughly investigate and the process of investigation must be disclosed." }),
+	MyVoca("assess",VERB,{"measure","gauge"},{"Members of the new gym with a lot of new equipment assess the membership fee as low."}),
+	MyVoca("fatigue",NOUN,{"exhaustion","tiredness"},{"If you drive long distances like the streets of Seoul and Busan, you will have fatigue."}),
+	MyVoca("abate",VERB,{"decrease","subside"},{"Sellers abate prices because they compete with each other to sell goods to their consumers."}),
+	MyVoca("nutrition",NOUN,{"diet","food"},{"Exercise is important for your body to be healthy, but nutrition is also important for your body."}),
+	MyVoca("pertinent",ADJ,{"relevant","related"},{"He is liked by everyone because he always acts pertinent behavior in a given situation."}),
+	MyVoca("diagnose",VERB,{"detect","identify"},{"In the current medical field, artificial intelligence technology can be used to accurately diagnose patients."}),
+
+	MyVoca("meager", ADJ, { "scanty","insufficient" }, { "Most of the students who live in front of the university live on a meager diet." }),
+	MyVoca("aggravate", VERB, { "worsen","exacerbate" }, { "If you don't treat the disease quickly after it's discovered, it's the way to aggravate it." }),
+	MyVoca("prescribe", VERB, { "recommend","suggest" }, { "Doctors prescribe to patients and patients take their prescriptions to pharmacies and are given medication." }),
+	MyVoca("imperative", ADJ, { "authoritative"," domineering" }, { "A leader of a group must be imperative because the people can depend on him." }),
+	MyVoca("imperative", NOUN,{"necessity", "essential"},{"Water is imperative for people because 70 percent of a person's body is made of water."}),
+	MyVoca("ecology",NOUN,{"biology, ecosystem"},{"As technology develops, not only do we use technologies to live conveniently, but ecology is also important."}),
+	MyVoca("impending", ADJ,{"imminent", "looming"},{"We know the test is impending, but we haven't started studying yet and we're playing."}),
+	MyVoca("stagnant", ADJ,{"still", "motionless"},{"Athletes will have a great sense of depression and loss if they continue to stagnate at some point."}),
+	MyVoca("variance", NOUN,{"alteration","modification"},{"COVID 19 has made a variance in our daily lives, such as wearing a mask."}),
+	MyVoca("coherent", ADJ,{"intelligible","clear"},{"I prefer people who do things coherently and fastly, but accurately when dealing with them."}),
+
+
+};
+
+
+#endif
